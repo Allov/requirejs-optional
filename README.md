@@ -1,6 +1,6 @@
 # requirejs-optional
 
-Based on a (stackoverflow answer)[http://stackoverflow.com/a/27422370/130480], loads a requirejs module optionally.
+Based on a [stackoverflow answer](http://stackoverflow.com/a/27422370/130480), loads a requirejs module optionally.
 
 ## Installation
 
