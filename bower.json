@@ -1,0 +1,22 @@
+{
+  "name": "requirejs-optional",
+  "version": "0.1.0",
+  "homepage": "https://github.com/Allov/requirejs-optional",
+  "authors": [
+    "Allov"
+  ],
+  "description": "Optionally load a requirejs module.",
+  "main": "optional.js",
+  "keywords": [
+    "requirejs",
+    "optional"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
